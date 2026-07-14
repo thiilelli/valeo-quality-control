@@ -1,0 +1,36 @@
+# Data et sorties
+data/
+outputs/
+results/
+artifacts/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnements
+.venv/
+venv/
+env/
+ENV/
+
+# Variables d'environnement
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Logs et caches
+*.log
+.cache/
