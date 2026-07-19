@@ -96,12 +96,9 @@ Image → Rotate + Crop → Classifier (6 classes)
 
 ## 📈 Résultats
 
-À venir.
+Baseline model trained: val Valeo cost = 911
 
-## 📚 Références
 
-- CamemBERT-bio paper — pour la reproductibilité des expériences
-- PADIM : Anomaly Detection
 - Focal Loss : Lin et al., 2017
 
 ## 📝 Licence
